@@ -1,0 +1,9 @@
+
+@CrossOrigin(origins = "*") is added in the @RestController so that it can be called from Javascript/JQuery/React
+
+mvn clean install
+
+mvn spring-boot:run
+
+http://localhost:8080/
+
